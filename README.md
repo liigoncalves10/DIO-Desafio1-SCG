@@ -1,3 +1,9 @@
-# DIO-Desafio1-SCG
-## Desafio Bootcamp DIO Santander Code Girls
-## SEJAM BEM VINDOS AO MEU PRIMEIRO DESAFIO DE PROJETO 
+# DIO-Desafio1-SCG :desktop_computer::computer_mouse:
+
+
+
+## Desafio Primeiro Repositório GITHUB 
+
+
+
+## _SEJAM BEM VINDOS AO MEU PRIMEIRO DESAFIO DE PROJETO_
